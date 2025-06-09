@@ -27,7 +27,7 @@
       "id": "library",
       "title": "Library",
       "environments": ["edit"],
-      "url": "https://main--event--adobehols.aem.live/tools/sidekick/library.html",
+      "url": "https://main--dubai-bootcamp--prafful-s.aem.page/tools/sidekick/library.html",
       "includePaths": ["**.docx**"]
     }
   ]
