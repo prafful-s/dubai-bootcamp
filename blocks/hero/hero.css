@@ -11,8 +11,12 @@
 
 .hero h1 {
   max-width: 1200px;
-  margin-left: auto;
+  margin-left: 0px;
   margin-right: auto;
+  color: var(--background-color);
+}
+
+.hero h3, .hero p {
   color: var(--background-color);
 }
 
